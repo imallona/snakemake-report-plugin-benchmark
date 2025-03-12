@@ -1,11 +1,11 @@
 [project]
 name = "snakemake-report-plugin-benchmark"
 version = "0.1.0"
-description = ""
+description = "An automated report plugin for snakemake-based benchmarks"
 readme = "README.md"
 requires-python = ">=3.11,<4.0"
 dependencies = [ "snakemake-interface-common (>=1.17.4,<2.0.0)", "snakemake-interface-report-plugins (>=1.1.0,<2.0.0)",]
-repository = "https://github.com/your/plugin"
+repository = "https://github.com/imallona/snakemake-report-plugin-benchmark"
 documentation = "https://snakemake.github.io/snakemake-plugin-catalog/plugins/report/benchmark.html"
 [[project.authors]]
 name = "Izaskun Mallona"
